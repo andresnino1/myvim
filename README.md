@@ -34,7 +34,7 @@ sudo apt upgrade
 ```console
 sudo apt install vim
 ```
-9 - clone the vim package manager in the ~/.vim directory
+9 - clone the VUNDLE vim package manager in the ~/.vim directory
 ```console
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
